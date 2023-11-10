@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "CV5MH3XFE4.com.example.deliveryCourier",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
